@@ -9,7 +9,7 @@ CXX             = g++
 CXXFLAGS        = -O0 -g -Wall -std=c++11 -lm
 
 CXXFLAGS       += -I$(BASEDIR) \
-									                  -I$(OPENSSLINCLUDES)
+									-I$(OPENSSLINCLUDES)
 
 LDFLAGS         = -L$(OPENSSLLIBS)
 
