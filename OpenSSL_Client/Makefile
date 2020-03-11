@@ -1,6 +1,6 @@
-BASEDIR         = $(HOME)/DEV/OpenSSL_Development
-OPENSSLINCLUDES = $(HOME)/DEV/OpenSSL_Development/BUILD/include
-OPENSSLLIBS     = $(HOME)/DEV/OpenSSL_Development/BUILD/lib
+BASEDIR         = $(HOME)/OpenSSLDev/OpenSSL_Client
+OPENSSLINCLUDES = $(HOME)/OpenSSLDev/BUILD/include
+OPENSSLLIBS     = $(HOME)/OpenSSLDev/BUILD/lib
 
 TARGET          = openssl_client
 
